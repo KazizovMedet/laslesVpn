@@ -1,0 +1,49 @@
+@media (max-width: 1280px){
+    .header {
+        padding: 40px 50px;
+    }
+    .nav-link a:not(:last-child) {
+        margin-right: 25px;
+    }
+    h1{
+        font-size: 38px;
+        line-height: 55px;
+        width: unset;
+    }
+
+    .eazy-start img{
+        width: 470px;
+    }
+    .eazy-start{
+        padding: 45px 0;
+    }
+
+    .conteiner{
+        max-width: 1000px;
+        padding: 0 10px;
+    }
+    .meta-col {
+        padding: 50px 60px;
+    }
+
+    .meta-section{
+        padding: 60px 0;
+    }
+
+    .icons{
+        margin-top: unset;
+    }
+    .vertical-lines::before {
+        bottom: 20px;
+    }
+
+    .vertical-lines::after {
+        bottom: 20px;
+    }
+
+    .map-pic img {
+        width: 900px;
+        margin: 0 auto;
+        display: block;
+    }
+}
